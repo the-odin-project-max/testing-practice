@@ -1,0 +1,29 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Odin project testing practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/the-odin-project-max/testing-practice.git"
+  },
+  "keywords": [
+    "Jest",
+    "Odin"
+  ],
+  "author": "Max Teiger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-odin-project-max/testing-practice/issues"
+  },
+  "homepage": "https://github.com/the-odin-project-max/testing-practice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.23.9",
+    "@babel/preset-env": "^7.23.9",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
