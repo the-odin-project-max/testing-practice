@@ -11,6 +11,3 @@ export default caesarCipher = (str, shift) => {
 		return char;
 	}).join('');
 }
-
-caesarCipher('hello', 3); // 'khoor'
-console.log(caesarCipher('hello.', 3));
